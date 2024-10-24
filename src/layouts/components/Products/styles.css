@@ -1,0 +1,12 @@
+.hidden {
+	display: none;
+}
+
+.contained-principal:hover .fav-icon-contained {
+	visibility: visible;
+}
+
+.fav-icon-contained {
+	visibility: hidden;
+	z-index: 12;
+}
